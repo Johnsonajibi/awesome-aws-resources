@@ -88,6 +88,9 @@ A curated collection of AWS resources, tools, guides, and best practices for clo
 - [Pluralsight](https://www.pluralsight.com/browse/cloud-computing/aws) - Tech skills platform
 
 ### Study Guides & Practice Exams
+
+- [Courseiva AWS Practice](https://courseiva.com/questions/aws) — Free AWS certification practice questions for Cloud Practitioner, Solutions Architect, Developer, SysOps, and Security with detailed explanations.
+
 - [AWS Certification Prep](https://aws.amazon.com/certification/certification-prep/) - Official prep materials
 - [AWS Sample Questions](https://aws.amazon.com/certification/certification-prep/) - Official practice
 - [Tutorials Dojo](https://tutorialsdojo.com/) - Excellent practice exams
